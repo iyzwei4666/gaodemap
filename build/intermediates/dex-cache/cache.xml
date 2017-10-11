@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\WYZ\Desktop\AMap3DDemo\app\libs\AMap_Search_V5.3.1_20170817.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4e1d1d93f686f1a6efe4e49d798b27801d4d301">
+        <dex dex="C:\Users\WYZ\Desktop\AMap3DDemo\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.3.1_20170817_50ba0a63d50e874d72f62ff5be7fae4c944a163d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WYZ\Desktop\AMap3DDemo\app\libs\AMap_Location_V3.6.0_20170918.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bde647cc7a74d48f415bdeac8a2d06edc315ff38">
+        <dex dex="C:\Users\WYZ\Desktop\AMap3DDemo\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.6.0_20170918_9022bc31eedaec1e4f39d58b535d8b1113f3add5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WYZ\Desktop\AMap3DDemo\app\libs\Volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="C:\Users\WYZ\Desktop\AMap3DDemo\app\build\intermediates\pre-dexed\debug\Volley_c27a89257797943915c0052f14c78d380099dab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WYZ\Desktop\AMap3DDemo\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="C:\Users\WYZ\Desktop\AMap3DDemo\app\build\intermediates\pre-dexed\debug\android-support-v4_fd6eeac461e60f695d9404d1a562b84d19ff1cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WYZ\Desktop\AMap3DDemo\app\libs\Android_Map3D_SDK_V5.4.0_20170928.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e6ca382790aa5ca89094e600da12f1a12932870">
+        <dex dex="C:\Users\WYZ\Desktop\AMap3DDemo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.4.0_20170928_c583a8a3fed67695a106a84eb2b2a5ff7dabaf9d.jar" />
+    </item>
+
+</items>
