@@ -3,48 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\WYZ\Desktop\AMap3DDemo\app\libs\AMap_Search_V5.3.1_20170817.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b4e1d1d93f686f1a6efe4e49d798b27801d4d301">
-        <dex dex="C:\Users\WYZ\Desktop\AMap3DDemo\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.3.1_20170817_50ba0a63d50e874d72f62ff5be7fae4c944a163d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\WYZ\Desktop\AMap3DDemo\app\libs\AMap_Location_V3.6.0_20170918.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bde647cc7a74d48f415bdeac8a2d06edc315ff38">
-        <dex dex="C:\Users\WYZ\Desktop\AMap3DDemo\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.6.0_20170918_9022bc31eedaec1e4f39d58b535d8b1113f3add5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\WYZ\Desktop\AMap3DDemo\app\libs\Volley.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
-        <dex dex="C:\Users\WYZ\Desktop\AMap3DDemo\app\build\intermediates\pre-dexed\debug\Volley_c27a89257797943915c0052f14c78d380099dab9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\WYZ\Desktop\AMap3DDemo\app\libs\android-support-v4.jar"
+        jar="C:\gaodemap\app\libs\android-support-v4.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
-        <dex dex="C:\Users\WYZ\Desktop\AMap3DDemo\app\build\intermediates\pre-dexed\debug\android-support-v4_fd6eeac461e60f695d9404d1a562b84d19ff1cf2.jar" />
+        <dex dex="C:\gaodemap\app\build\intermediates\pre-dexed\debug\android-support-v4_e4dba621d345e74d16cadf21cfc69abaa268b37c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\WYZ\Desktop\AMap3DDemo\app\libs\Android_Map3D_SDK_V5.4.0_20170928.jar"
+        jar="C:\gaodemap\app\libs\AMap_Location_V3.6.0_20170918.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bde647cc7a74d48f415bdeac8a2d06edc315ff38">
+        <dex dex="C:\gaodemap\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.6.0_20170918_245202805d9b5e398df292294f1e922001826e39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\gaodemap\app\libs\Android_Map3D_SDK_V5.4.0_20170928.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="4e6ca382790aa5ca89094e600da12f1a12932870">
-        <dex dex="C:\Users\WYZ\Desktop\AMap3DDemo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.4.0_20170928_c583a8a3fed67695a106a84eb2b2a5ff7dabaf9d.jar" />
+        <dex dex="C:\gaodemap\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.4.0_20170928_27c188b34fe80dece04386aaf8f6ddec3aaf6607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\gaodemap\app\libs\AMap_Search_V5.3.1_20170817.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4e1d1d93f686f1a6efe4e49d798b27801d4d301">
+        <dex dex="C:\gaodemap\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.3.1_20170817_55a2a53507abb1efd67100d928deb7b44193f6a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\gaodemap\app\libs\Volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="C:\gaodemap\app\build\intermediates\pre-dexed\debug\Volley_02a04625588eb4de6aae1229d5555a28658eecf9.jar" />
     </item>
 
 </items>
