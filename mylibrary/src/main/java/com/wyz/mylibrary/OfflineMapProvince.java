@@ -8,10 +8,13 @@ import java.util.List;
  */
 
 public class OfflineMapProvince {
-    public void setProvinceName(String 概要图) {
+    public void setProvinceName(String name) {
+
     }
 
     public void setCityList(ArrayList<OfflineMapCity> gaiyaotuList) {
+
+
     }
 
     public List<OfflineMapCity> getCityList() {

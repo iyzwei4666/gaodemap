@@ -10,27 +10,35 @@ import java.util.List;
 
 public class OfflineMapManager {
 
+    private OfflineMapManager.OfflineMapDownloadListener downloadListener;
+    private OfflineMapManager.OfflineLoadedListener loadedListener;
 
     public OfflineMapManager(Context activity, OfflineMapDownloadListener Listener) {
 
     }
 
     public void downloadByCityName(String city) {
+
     }
 
     public void downloadByProvinceName(String city) {
+
     }
 
     public void pause() {
+
     }
 
     public void restart() {
+
     }
 
     public void remove(String name) {
+
     }
 
     public void updateOfflineCityByName(String name) {
+
     }
 
     public List<OfflineMapCity> getDownloadOfflineMapCityList() {
@@ -41,12 +49,16 @@ public class OfflineMapManager {
     }
 
     public void destroy() {
+
     }
 
     public void stop() {
+
     }
 
     public void setOnOfflineLoadedListener(OfflineMapDownloadListener listener) {
+        this.downloadListener = listener;
+
     }
 
     public List<OfflineMapProvince> getOfflineMapProvinceList() {
