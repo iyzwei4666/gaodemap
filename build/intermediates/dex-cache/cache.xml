@@ -12,15 +12,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\gaodemap\app\libs\AMap_Location_V3.6.0_20170918.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bde647cc7a74d48f415bdeac8a2d06edc315ff38">
-        <dex dex="C:\gaodemap\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.6.0_20170918_245202805d9b5e398df292294f1e922001826e39.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\gaodemap\app\libs\Android_Map3D_SDK_V5.4.0_20170928.jar"
         jumboMode="false"
         optimize="true"
@@ -36,6 +27,15 @@
         revision="25.0.0"
         sha1="b4e1d1d93f686f1a6efe4e49d798b27801d4d301">
         <dex dex="C:\gaodemap\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.3.1_20170817_55a2a53507abb1efd67100d928deb7b44193f6a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\gaodemap\app\libs\AMap_Location_V3.6.0_20170918.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bde647cc7a74d48f415bdeac8a2d06edc315ff38">
+        <dex dex="C:\gaodemap\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.6.0_20170918_245202805d9b5e398df292294f1e922001826e39.jar" />
     </item>
     <item
         is-multidex="false"

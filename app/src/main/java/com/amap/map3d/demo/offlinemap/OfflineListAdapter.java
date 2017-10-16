@@ -174,8 +174,8 @@ public class OfflineListAdapter extends BaseExpandableListAdapter implements OnG
 			mapCity = provinceList.get(groupPosition).getCityList().get(childPosition);
 		}
 		
-		
-		
+
+
 		viewHolder.mOfflineChild.setOffLineCity(mapCity);
 
 		return convertView;
